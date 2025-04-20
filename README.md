@@ -9,3 +9,5 @@
 4. UserForm (A detailed form to accept user details)
 
 run using: npm run dev
+
+(at a time, only one project can run; comment out the necessary codes in "App.jsx")
